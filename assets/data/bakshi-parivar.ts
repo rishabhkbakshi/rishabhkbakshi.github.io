@@ -290,14 +290,14 @@ const bakshiParivar = {
           name: 'Late Luni Bai*',
           spouse: 'Late Poonam Chand Banthiya',
           spouseParents: { mom: '<unknown>', dad: '<unknown>' },
-          image: 'assets/images/lunibaisa.jpg',
+          image: 'assets/images/lunibaisa.jpeg',
           children: []
         },
         {
           name: 'Late Gulab Bai*',
           spouse: 'Late Pratap Chand Pugalia',
           spouseParents: { mom: '<unknown>', dad: '<unknown>' },
-          image: 'assets/images/gulabbaisa.jpg',
+          image: 'assets/images/gulabbaisa.jpeg',
           children: []
         }
       ]
