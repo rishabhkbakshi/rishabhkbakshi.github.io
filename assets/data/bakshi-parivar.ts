@@ -11,13 +11,13 @@ const bakshiParivar = {
         {
           name: 'Late ManakChandji Bakshi*',
           spouse: 'Late Kamla Devi',
-          spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Suran' },
+          spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
           image: 'assets/images/maa-1.jpg',
           children: [
             {
               name: 'Chandrakanta Sethia (मोलू)*',
               spouse: 'Late Swami Anand Prem',
-              spouseParents: { mom: 'Late Gulab devi', dad: 'Late Jawant Mal Sa Sethia' },
+              spouseParents: { mom: 'Late Gulab devi', dad: 'Late Jewant Mal Sa Sethia' },
               image: 'assets/images/bhuaasa.jpg',
               children: [
                 {
@@ -71,7 +71,7 @@ const bakshiParivar = {
               name: 'Sarla Chordia (Manju)*',
               spouse: 'Sunil Chordia',
               image: 'assets/images/manju.jpg',
-              spouseParents: { mom: 'Upyog kanwar', dad: 'Late Parsanmal Sa Chordia' },
+              spouseParents: { mom: 'Late Upyog kanwar', dad: 'Late Parsanmal Sa Chordia' },
               children: [
                 {
                   name: 'Priyanka Surana (Tina)*',
