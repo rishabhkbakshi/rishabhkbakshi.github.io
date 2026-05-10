@@ -180,7 +180,7 @@ const bakshiParivar = {
         {
           name: 'Late Dhanraj Bakshi (धनजी/काकासा)*',
           spouse: 'Late Pushpa Devi',
-          spouseParents: { mom: 'Sirya Bai', dad: 'Chandmalji Kochar' },
+          spouseParents: { mom: 'Late Sirya Bai', dad: 'Late Chandmalji Kochar' },
           image: 'assets/images/dhanraj.jpg',
           children: [
             {
