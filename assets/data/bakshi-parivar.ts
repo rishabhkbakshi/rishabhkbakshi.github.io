@@ -11,7 +11,7 @@ const bakshiParivar = {
         {
           name: 'Late ManakChandji Bakshi*',
           spouse: 'Late Kamla Devi',
-          spouseParents: { mom: '<unknown>', dad: '<unknown>' },
+          spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Suran' },
           image: 'assets/images/maa-1.jpg',
           children: [
             {
@@ -139,7 +139,7 @@ const bakshiParivar = {
                 {
                   name: 'Pawan Kankariya (Charlie)*',
                   spouse: 'Rishika Kankariya',
-                  spouseParents: { mom: 'Sangeeta Singhvi', dad: 'Late Praveen Singhvi' },
+                  spouseParents: { mom: 'Sangeeta Singhvi', dad: 'Praveen Singhvi' },
                   image: 'assets/images/charlie.jpg',
                   children: []
                 }
