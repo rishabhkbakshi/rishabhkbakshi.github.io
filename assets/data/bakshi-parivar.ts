@@ -104,7 +104,7 @@ const bakshiParivar = {
                 {
                   name: 'Pratibha Khabiya (Dimple)*',
                   spouse: 'Ajit Khabiya',
-                  spouseParents: { mom: 'Late Nirmal Ji Khabiya', dad: 'Rajendra Ji Khabiya' },
+                  spouseParents: { mom: 'Late Nirmala Khabiya', dad: 'Rajendra Ji Khabiya' },
                   image: 'assets/images/dimple.jpg',
                   children: [
                     { name: 'Ayaansh Khabiya', image: 'assets/images/ayaansh.jpg' }
