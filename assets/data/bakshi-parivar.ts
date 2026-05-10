@@ -71,7 +71,7 @@ const bakshiParivar = {
               name: 'Sarla Chordia (Manju)*',
               spouse: 'Sunil Chordia',
               image: 'assets/images/manju.jpg',
-              spouseParents: { mom: 'Late Upyog kanwar', dad: 'Late Parsanmal Sa Chordia' },
+              spouseParents: { mom: 'Late Upyog kanwar', dad: 'Late Parsan Mal Sa Chordia' },
               children: [
                 {
                   name: 'Priyanka Surana (Tina)*',
@@ -98,7 +98,7 @@ const bakshiParivar = {
             {
               name: 'Suman Sand (संती)*',
               spouse: 'Sunil Sand',
-              spouseParents: { mom: 'Late Shanti Devi Sand', dad: 'Late Mohanmal Sa Sand' },
+              spouseParents: { mom: 'Late Shanti Devi Sand', dad: 'Late Mohan Mal Sa Sand' },
               image: 'assets/images/suman.jpg',
               children: [
                 {
@@ -158,7 +158,7 @@ const bakshiParivar = {
             {
               name: 'Vijay Kumar Bakshi (Munna)*',
               spouse: 'Nidhi Jain',
-              spouseParents: { mom: 'Late Kiran Chordia', dad: 'Late Makturmal Chordia' },
+              spouseParents: { mom: 'Late Kiran Chordia', dad: 'Late Maktur Mal Chordia' },
               image: 'assets/images/vijay.jpg',
               children: [
                 { name: 'Poorva Jain', image: 'assets/images/poorva.jpg' },
@@ -186,7 +186,7 @@ const bakshiParivar = {
             {
               name: 'Buddhi Prakash Bakshi (Mannu)*',
               spouse: 'Hansa Bakshi',
-              spouseParents: { mom: 'Late Shanti Devi', dad: 'Late Laxmi Chand Mehta' },
+              spouseParents: { mom: 'Shanti Devi', dad: 'Late Laxmi Chand Mehta' },
               image: 'assets/images/manu.jpg',
               children: [
                 {
@@ -204,9 +204,9 @@ const bakshiParivar = {
               ]
             },
             {
-              name: 'Saroj Dosi (Bai)*',
-              spouse: 'Ashok Dosi',
-              spouseParents: { mom: 'Late Ugam Kanwar Dosi', dad: 'Late Sampat Raj Dosi' },
+              name: 'Saroj Doshi (Bai)*',
+              spouse: 'Ashok Doshi',
+              spouseParents: { mom: 'Late Ugam Kanwar Doshi', dad: 'Late Sampat Raj Doshi' },
               image: 'assets/images/Ashokji.jpg',
               children: [
                 {
@@ -231,7 +231,7 @@ const bakshiParivar = {
             {
               name: 'Sunita Lalwani (Baby)*',
               spouse: 'Kamal Lalwani',
-              spouseParents: { mom: 'Ghisi Devi Lalwani', dad: 'Tejkaran Lalwani ' },
+              spouseParents: { mom: 'Late Ghisi Devi Lalwani', dad: 'Late Tejkaran Lalwani ' },
               image: 'assets/images/babybhuaa.jpg',
               children: [
                 {
@@ -290,12 +290,14 @@ const bakshiParivar = {
           name: 'Late Luni Bai*',
           spouse: 'Late Poonam Chand Banthiya',
           spouseParents: { mom: '<unknown>', dad: '<unknown>' },
+          image: 'assets/images/lunibaisa.jpg',
           children: []
         },
         {
           name: 'Late Gulab Bai*',
           spouse: 'Late Pratap Chand Pugalia',
           spouseParents: { mom: '<unknown>', dad: '<unknown>' },
+          image: 'assets/images/gulabbaisa.jpg',
           children: []
         }
       ]
