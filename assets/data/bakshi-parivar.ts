@@ -7,13 +7,13 @@ const bakshiParivar: any = {
       description: '★ The Bakshis — Ancestral root (only the entries shown below are available)',
       children: [
         {
-          name: 'Late Champalalji Bakshi',
+          name: 'Late Champalal Ji Bakshi',
           spouse: 'Late JethiBai Sa',
           spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
           image: 'assets/images/champalalji.jpg',
           children: [
             {
-              name: 'Late ManakChandji Bakshi*',
+              name: 'Late ManakChand Ji Bakshi*',
               spouse: 'Late Kamla Devi',
               spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
               image: 'assets/images/maa-1.jpg',
@@ -184,7 +184,7 @@ const bakshiParivar: any = {
             {
               name: 'Late Dhanraj Bakshi (धनजी/काकासा)*',
               spouse: 'Late Pushpa Devi',
-              spouseParents: { mom: 'Late SiryaBai Sa', dad: 'Late Chandmalji Kochar' },
+              spouseParents: { mom: 'Late SiryaBai Sa', dad: 'Late Chandmal Ji Kochar' },
               image: 'assets/images/dhanraj.jpg',
               children: [
                 {
@@ -225,7 +225,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Sarika Karnawat (Ghotu)*',
                       spouse: 'Raunak Karnawat',
-                      spouseParents: { mom: 'Urmila ji karnawat', dad: 'Late Pardeep Sa Karnawat' },
+                      spouseParents: { mom: 'Urmila Ji karnawat', dad: 'Late Pardeep Sa Karnawat' },
                       image: 'assets/images/Ghotu.jpg',
                       children: []
                     },
