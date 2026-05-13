@@ -5,6 +5,7 @@ const bakshiParivar: any = {
     {
       name: 'The Bakshis',
       description: '★ The Bakshis — Ancestral root (only the entries shown below are available)',
+      // image: 'no need',
       children: [
         {
           name: 'Late Champalal Ji Bakshi',
@@ -56,7 +57,7 @@ const bakshiParivar: any = {
                       name: 'Rishabh Kumar Bakshi (Vicky)*',
                       spouse: 'Apurva Jain',
                       spouseParents: { mom: 'Veena Jain', dad: 'Sunil Kumar Sa Jain' },
-                      image: 'assets/images/rishabh.jpg',
+                      image: 'assets/images/rishabh.jpeg',
                       children: [
                         { name: 'Khwaab Jain', image: 'assets/images/khwaab.jpg' },
                         { name: 'Aprisha Jain', image: 'assets/images/aprisha.jpg' }
@@ -302,7 +303,23 @@ const bakshiParivar: any = {
               spouse: 'Late Pratap Chand Ji Pugalia',
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
               image: 'assets/images/gulabbaisa1.jpg',
-              children: []
+              // children: [{
+              //   name: 'Kailash Chand Ji Pugalia*',
+              //   spouse: 'Aruna Pugalia',
+              //   image: 'no need'
+              // }, {
+              //   name: 'Navratan Ji Pugalia*',
+              //   spouse: 'Devika Pugalia',
+              //   image: 'no need'
+              // }, {
+              //   name: 'Rajender Ji Pugalia*',
+              //   spouse: 'Saroj Pugalia',
+              //   image: 'no need'
+              // }, {
+              //   name: 'Santosh Bhansali*',
+              //   spouse: 'Suresh Bhansali',
+              //   image: 'no need'
+              // }]
             }
           ]
         }
