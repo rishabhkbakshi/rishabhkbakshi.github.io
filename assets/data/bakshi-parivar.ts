@@ -59,8 +59,8 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Veena Jain', dad: 'Sunil Kumar Sa Jain' },
                       image: 'assets/images/rishabh.jpeg',
                       children: [
-                        { name: 'Khwaab Jain', image: 'assets/images/khwaab.jpg' },
-                        { name: 'Aprisha Jain', image: 'assets/images/aprisha.jpg' }
+                        { name: 'Khwaab Jain', image: 'assets/images/khwaab.jpeg' },
+                        { name: 'Aprisha Jain', image: 'assets/images/aprisha.jpeg' }
                       ]
                     },
                     {
