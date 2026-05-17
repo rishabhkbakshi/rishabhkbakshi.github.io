@@ -325,8 +325,8 @@ const bakshiParivar: any = {
                 spouse: 'Lalita Banthia',
                 image: 'no need'
               }, {
-                name: 'Sushila Golchha*',
-                spouse: 'Mahendra Ji Golchha',
+                name: 'Sushila Sethia*',
+                spouse: 'Mahendra Ji Sethia',
                 image: 'no need'
               }]
             },
