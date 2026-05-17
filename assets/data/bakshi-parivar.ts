@@ -296,30 +296,74 @@ const bakshiParivar: any = {
               spouse: 'Late Poonam Chand Ji Banthiya',
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
               image: 'assets/images/lunibaisa.jpeg',
-              children: []
+              children: [{
+                name: 'ShantiLal Banthiya',
+                spouse: 'Shanti Devi',
+                image: 'no need'
+              }, {
+                name: 'Vijay Chand Banthia*',
+                spouse: 'Jethi Devi',
+                image: 'no need'
+              }, {
+                name: 'Vimala Devi*',
+                spouse: 'Mohan Lal Ji Sethia',
+                image: 'no need'
+              }, {
+                name: 'Tarachand Banthia',
+                spouse: 'Suraj Devi',
+                image: 'no need'
+              }, {
+                name: 'Mangilal Banthia',
+                spouse: 'Prem Lata Banthia',
+                image: 'no need'
+              }, {
+                name: 'Nirmala Sethia*',
+                spouse: 'Shanti Lal Ji Sethia',
+                image: 'no need'
+              }, {
+                name: 'BanshiLal Banthia',
+                spouse: 'Lalita Banthia',
+                image: 'no need'
+              }, {
+                name: 'Sushila Golchha*',
+                spouse: 'Mahendra Ji Golchha',
+                image: 'no need'
+              }]
             },
             {
-              name: 'Late GulabBai Sa*',
+              name: 'Late Gulab Devi Sa*',
               spouse: 'Late Pratap Chand Ji Pugalia',
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
               image: 'assets/images/gulabbaisa1.jpg',
-              // children: [{
-              //   name: 'Kailash Chand Ji Pugalia*',
-              //   spouse: 'Aruna Pugalia',
-              //   image: 'no need'
-              // }, {
-              //   name: 'Navratan Ji Pugalia*',
-              //   spouse: 'Devika Pugalia',
-              //   image: 'no need'
-              // }, {
-              //   name: 'Rajender Ji Pugalia*',
-              //   spouse: 'Saroj Pugalia',
-              //   image: 'no need'
-              // }, {
-              //   name: 'Santosh Bhansali*',
-              //   spouse: 'Suresh Bhansali',
-              //   image: 'no need'
-              // }]
+              children: [{
+                name: 'Bhanwari Devi*',
+                spouse: 'Late Askaran Ji Bafna',
+                image: 'no need'
+              }, {
+                name: 'Kailash Chand Ji Pugalia',
+                spouse: 'Aruna Pugalia',
+                image: 'no need'
+              }, {
+                name: 'Late Nirmala Devi*',
+                spouse: 'Late Keval Chand Ji Parakh',
+                image: 'no need'
+              }, {
+                name: 'Late Prakash Chand Pugalia',
+                spouse: 'Late Anju Devi Pugalia',
+                image: 'no need'
+              }, {
+                name: 'Navratan Ji Pugalia',
+                spouse: 'Devika Pugalia',
+                image: 'no need'
+              }, {
+                name: 'Rajender Ji Pugalia',
+                spouse: 'Saroj Pugalia',
+                image: 'no need'
+              }, {
+                name: 'Santosh Bhansali*',
+                spouse: 'Suresh Bhansali',
+                image: 'no need'
+              }]
             }
           ]
         }
