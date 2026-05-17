@@ -9,7 +9,7 @@ const bakshiParivar: any = {
       children: [
         {
           name: 'Late Champalal Ji Bakshi',
-          spouse: 'Late JethiBai Sa',
+          spouse: 'Late Jethi Bai Sa',
           spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
           image: 'assets/images/champalalji.jpg',
           children: [
