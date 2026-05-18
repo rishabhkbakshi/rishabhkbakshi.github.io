@@ -14,7 +14,7 @@ const bakshiParivar: any = {
           image: 'assets/images/champalalji.jpg',
           children: [
             {
-              name: 'Late ManakChand Ji Bakshi*',
+              name: 'Late Manak Chand Ji Bakshi*',
               spouse: 'Late Kamla Devi',
               spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
               image: 'assets/images/maa-1.jpg',
@@ -28,7 +28,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Ashok Prem*',
                       spouse: 'Mukta Jain',
-                      spouseParents: { mom: 'Pushpa Devi', dad: 'Late Shanti Lal Ji Gang' },
+                      spouseParents: { mom: 'Pushpa Devi', dad: 'Late Shantilal Gang' },
                       image: 'assets/images/ashok.jpg',
                       children: [
                         { name: 'Juhi Jain', image: 'assets/images/juhi.jpg' },
@@ -38,7 +38,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Arvind Prem (Bablu)*',
                       spouse: 'Trishla Sethia',
-                      spouseParents: { mom: 'Sushila Lalwani', dad: 'Ashkaran Ji Lalwani' },
+                      spouseParents: { mom: 'Sushila Lalwani', dad: 'Ashkaran Lalwani' },
                       image: 'assets/images/babloo.jpg',
                       children: [
                         { name: 'Aayush Sethia', image: 'assets/images/aayush.jpg' },
@@ -56,7 +56,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Rishabh Kumar Bakshi (Vicky)*',
                       spouse: 'Apurva Jain',
-                      spouseParents: { mom: 'Veena Jain', dad: 'Sunil Kumar Sa Jain' },
+                      spouseParents: { mom: 'Veena Jain', dad: 'Sunil Kumar Jain' },
                       image: 'assets/images/rishabh.jpeg',
                       children: [
                         { name: 'Khwaab Jain', image: 'assets/images/khwaab.jpeg' },
@@ -66,7 +66,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Shilpi Pugalia*',
                       spouse: 'Nitin Pugalia',
-                      spouseParents: { mom: 'Madhu Pugalia', dad: 'Nirmal Ji Pugalia' },
+                      spouseParents: { mom: 'Madhu Pugalia', dad: 'Nirmal Pugalia' },
                       image: 'assets/images/shilpi.jpg',
                       children: []
                     }
@@ -91,7 +91,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Prateek Chordia (Rinku)*',
                       spouse: 'Nikita Chordia',
-                      spouseParents: { mom: 'Babita Baid', dad: 'Suresh Kumar Ji Baid' },
+                      spouseParents: { mom: 'Babita Baid', dad: 'Suresh Kumar Baid' },
                       image: 'assets/images/rinku.jpg',
                       children: [
                         { name: 'Yaashi Chordia', image: 'assets/images/rinku-2.jpg', },
@@ -109,7 +109,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Pratibha Khabiya (Dimple)*',
                       spouse: 'Ajit Khabiya',
-                      spouseParents: { mom: 'Late Nirmala Khabiya', dad: 'Rajendra Ji Khabiya' },
+                      spouseParents: { mom: 'Late Nirmala Khabiya', dad: 'Rajendra Khabiya' },
                       image: 'assets/images/dimple.jpg',
                       children: [
                         { name: 'Ayaansh Khabiya', image: 'assets/images/ayaansh.jpg' }
@@ -118,7 +118,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Nidhi Bhadani*',
                       spouse: 'Pankaj Bhadani',
-                      spouseParents: { mom: 'Late Sushila Devi Bhadani', dad: 'Late Kiran Chand Ji Bhadani' },
+                      spouseParents: { mom: 'Late Sushila Devi Bhadani', dad: 'Late Kiran Chand Bhadani' },
                       image: 'assets/images/nidhi.jpg',
                       children: [
                         { name: 'Lehak Jain', image: 'assets/images/nidhi-1.jpg' }
@@ -173,7 +173,7 @@ const bakshiParivar: any = {
                 {
                   name: 'Jaishri Jain (Gudiya)*',
                   spouse: 'Sudhir Kumbhat',
-                  spouseParents: { mom: 'Manju Kumbhat', dad: 'Gyan Chand Ji Kumbhat' },
+                  spouseParents: { mom: 'Manju Kumbhat', dad: 'Gyan Chand Kumbhat' },
                   image: 'assets/images/gudiya.jpg',
                   children: [
                     { name: 'Nischal Kumbhat Jain (Golu)', image: 'assets/images/nischal.jpg' },
@@ -191,13 +191,13 @@ const bakshiParivar: any = {
                 {
                   name: 'Buddhi Prakash Bakshi (Mannu)*',
                   spouse: 'Hansa Bakshi',
-                  spouseParents: { mom: 'Shanti Devi', dad: 'Late Laxmi Chand Ji Mehta' },
+                  spouseParents: { mom: 'Shanti Devi', dad: 'Late Laxmi Chand Mehta' },
                   image: 'assets/images/manu.jpg',
                   children: [
                     {
                       name: 'Chandani Babel*',
                       spouse: 'Deepak Babel',
-                      spouseParents: { mom: 'Usha Babel', dad: 'Inderchand Ji Babel' },
+                      spouseParents: { mom: 'Usha Babel', dad: 'Inderchand Babel' },
                       image: 'assets/images/chandani.jpg',
                       children: [
                         { name: 'Divit Babel', image: 'assets/images/chandani-1.jpg' },
@@ -220,13 +220,13 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Sumitra Devi', dad: 'Jambu Sa Burad' },
                       image: 'assets/images/khushbu-borunda.jpg',
                       children: [
-                        { name: 'Prisha Burad', image: 'assets/images/khushbu-borunda1.jpg' }
+                        { name: 'Prisha Burad', image: 'assets/images/khushbu-borunda2.jpeg' }
                       ]
                     },
                     {
                       name: 'Sarika Karnawat (Ghotu)*',
                       spouse: 'Raunak Karnawat',
-                      spouseParents: { mom: 'Urmila Ji karnawat', dad: 'Late Pardeep Sa Karnawat' },
+                      spouseParents: { mom: 'Urmila Karnawat', dad: 'Late Pardeep Karnawat' },
                       image: 'assets/images/Ghotu.jpg',
                       children: []
                     },
@@ -236,13 +236,13 @@ const bakshiParivar: any = {
                 {
                   name: 'Sunita Lalwani (Baby)*',
                   spouse: 'Kamal Lalwani',
-                  spouseParents: { mom: 'Late Ghisi Devi Lalwani', dad: 'Late Tejkaran Ji Lalwani ' },
+                  spouseParents: { mom: 'Late Ghisi Devi Lalwani', dad: 'Late Tejkaran Lalwani ' },
                   image: 'assets/images/babybhuaa.jpg',
                   children: [
                     {
                       name: 'Khushbu Kothari*',
                       spouse: 'Rishabh Kothari',
-                      spouseParents: { mom: 'Saroj Ji Kothari', dad: 'Vimal Ji Kothari' },
+                      spouseParents: { mom: 'Saroj Kothari', dad: 'Vimal Kothari' },
                       image: 'assets/images/khushbu-nagaur.jpg',
                       children: [
                         { name: 'Ritvi Kothari', image: 'assets/images/khushbu-nagaur-1.jpg' },
@@ -252,7 +252,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Kavita Choudhary*',
                       spouse: 'Arvind Choudhary',
-                      spouseParents: { mom: 'Sheela Devi', dad: 'Subhash Chand Ji Choudhary' },
+                      spouseParents: { mom: 'Sheela Devi', dad: 'Subhash Chand Choudhary' },
                       image: 'assets/images/kavita.jpg',
                       children: [
                         { name: 'Khushan Choudhary', image: 'assets/images/kavita-1.jpg' },
@@ -280,7 +280,7 @@ const bakshiParivar: any = {
                     {
                       name: 'Nikita Bhansali*',
                       spouse: 'Pravesh Bhansali',
-                      spouseParents: { mom: 'Prabha Bhansali', dad: 'Sushil Ji Bhansali' },
+                      spouseParents: { mom: 'Prabha Bhansali', dad: 'Sushil Bhansali' },
                       image: 'assets/images/nikita.jpg',
                       children: [
                         { name: 'Garvisha Bhansali', image: 'assets/images/nikita-1.jpg' }
@@ -297,16 +297,16 @@ const bakshiParivar: any = {
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
               image: 'assets/images/lunibaisa.jpeg',
               children: [{
-                name: 'ShantiLal Banthiya',
+                name: 'Shantilal Banthiya',
                 spouse: 'Shanti Devi',
                 image: 'no need'
               }, {
-                name: 'Vijay Chand Banthia*',
+                name: 'Vijay Chand Banthia',
                 spouse: 'Jethi Devi',
                 image: 'no need'
               }, {
                 name: 'Vimala Devi*',
-                spouse: 'Mohan Lal Ji Sethia',
+                spouse: 'Mohanlal Sethia',
                 image: 'no need'
               }, {
                 name: 'Tarachand Banthia',
@@ -318,15 +318,15 @@ const bakshiParivar: any = {
                 image: 'no need'
               }, {
                 name: 'Nirmala Sethia*',
-                spouse: 'Shanti Lal Ji Sethia',
+                spouse: 'Shantilal Sethia',
                 image: 'no need'
               }, {
-                name: 'BanshiLal Banthia',
+                name: 'Banshilal Banthia',
                 spouse: 'Lalita Banthia',
                 image: 'no need'
               }, {
                 name: 'Sushila Sethia*',
-                spouse: 'Mahendra Ji Sethia',
+                spouse: 'Mahendra Sethia',
                 image: 'no need'
               }]
             },
@@ -337,26 +337,26 @@ const bakshiParivar: any = {
               image: 'assets/images/gulabbaisa1.jpg',
               children: [{
                 name: 'Bhanwari Devi*',
-                spouse: 'Late Askaran Ji Bafna',
+                spouse: 'Late Askaran Bafna',
                 image: 'no need'
               }, {
-                name: 'Kailash Chand Ji Pugalia',
+                name: 'Kailash Chand Pugalia',
                 spouse: 'Aruna Pugalia',
                 image: 'no need'
               }, {
                 name: 'Late Nirmala Devi*',
-                spouse: 'Late Keval Chand Ji Parakh',
+                spouse: 'Late Keval Chand Parakh',
                 image: 'no need'
               }, {
                 name: 'Late Prakash Chand Pugalia',
                 spouse: 'Late Anju Devi Pugalia',
                 image: 'no need'
               }, {
-                name: 'Navratan Ji Pugalia',
+                name: 'Navratan Pugalia',
                 spouse: 'Devika Pugalia',
                 image: 'no need'
               }, {
-                name: 'Rajender Ji Pugalia',
+                name: 'Rajender Pugalia',
                 spouse: 'Saroj Pugalia',
                 image: 'no need'
               }, {
