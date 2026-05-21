@@ -176,7 +176,7 @@ const bakshiParivar: any = {
                   spouseParents: { mom: 'Manju Kumbhat', dad: 'Gyan Chand Kumbhat' },
                   image: 'assets/images/gudiya.jpg',
                   children: [
-                    { name: 'Nischal Kumbhat Jain (Golu)', image: 'assets/images/nischal.jpg' },
+                    { name: 'Nishchal Kumbhat Jain (Golu)', image: 'assets/images/nishchal.jpg' },
                     { name: 'Chaitanya Kumbhat Jain (Gungun)', image: 'assets/images/gungun.jpg' }
                   ]
                 }
