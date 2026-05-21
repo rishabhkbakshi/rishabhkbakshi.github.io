@@ -15,6 +15,7 @@ const bakshiParivar: any = {
             {
               name: 'Late Manak Chand Ji Bakshi*',
               spouse: 'Late Kamla Devi',
+              spouseDescription: '★★ Late Kamla Devi —  (सूत्रधार - An Amazing Lady who held the family together through thick and thin)',
               spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
               image: 'assets/images/maa-1.jpg',
               children: [
@@ -296,25 +297,25 @@ const bakshiParivar: any = {
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
               image: 'assets/images/lunibaisa.jpeg',
               children: [{
-                name: 'Shantilal Banthiya',
+                name: 'Shantilal Banthiya*',
                 spouse: 'Shanti Devi'
               }, {
-                name: 'Vijay Chand Banthia',
+                name: 'Vijay Chand Banthia*',
                 spouse: 'Jethi Devi'
               }, {
                 name: 'Vimala Devi*',
                 spouse: 'Mohanlal Sethia'
               }, {
-                name: 'Tarachand Banthia',
+                name: 'Tarachand Banthia*',
                 spouse: 'Suraj Devi'
               }, {
-                name: 'Mangilal Banthia',
+                name: 'Mangilal Banthia*',
                 spouse: 'Prem Lata Banthia'
               }, {
                 name: 'Nirmala Sethia*',
                 spouse: 'Shantilal Sethia'
               }, {
-                name: 'Banshilal Banthia',
+                name: 'Banshilal Banthia*',
                 spouse: 'Lalita Banthia'
               }, {
                 name: 'Sushila Sethia*',
@@ -330,13 +331,13 @@ const bakshiParivar: any = {
                 name: 'Bhanwari Devi*',
                 spouse: 'Late Askaran Bafna'
               }, {
-                name: 'Kailash Chand Pugalia',
+                name: 'Kailash Chand Pugalia*',
                 spouse: 'Aruna Pugalia'
               }, {
                 name: 'Late Nirmala Devi*',
                 spouse: 'Late Keval Chand Parakh'
               }, {
-                name: 'Late Prakash Chand Pugalia',
+                name: 'Late Prakash Chand Pugalia*',
                 spouse: 'Late Anju Devi Pugalia',
                 image: '',
                 children: [
@@ -360,10 +361,10 @@ const bakshiParivar: any = {
                   }
                 ]
               }, {
-                name: 'Navratan Pugalia',
+                name: 'Navratan Pugalia*',
                 spouse: 'Devika Pugalia'
               }, {
-                name: 'Rajender Pugalia',
+                name: 'Rajender Pugalia*',
                 spouse: 'Saroj Pugalia'
               }, {
                 name: 'Santosh Bhansali*',
