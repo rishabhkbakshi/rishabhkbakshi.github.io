@@ -5,7 +5,6 @@ const bakshiParivar: any = {
     {
       name: 'The Bakshis',
       description: '★ The Bakshis — Ancestral root (only the entries shown below are available)',
-      // image: 'no need',
       children: [
         {
           name: 'Late Champalal Ji Bakshi',
@@ -298,36 +297,28 @@ const bakshiParivar: any = {
               image: 'assets/images/lunibaisa.jpeg',
               children: [{
                 name: 'Shantilal Banthiya',
-                spouse: 'Shanti Devi',
-                image: 'no need'
+                spouse: 'Shanti Devi'
               }, {
                 name: 'Vijay Chand Banthia',
-                spouse: 'Jethi Devi',
-                image: 'no need'
+                spouse: 'Jethi Devi'
               }, {
                 name: 'Vimala Devi*',
-                spouse: 'Mohanlal Sethia',
-                image: 'no need'
+                spouse: 'Mohanlal Sethia'
               }, {
                 name: 'Tarachand Banthia',
-                spouse: 'Suraj Devi',
-                image: 'no need'
+                spouse: 'Suraj Devi'
               }, {
                 name: 'Mangilal Banthia',
-                spouse: 'Prem Lata Banthia',
-                image: 'no need'
+                spouse: 'Prem Lata Banthia'
               }, {
                 name: 'Nirmala Sethia*',
-                spouse: 'Shantilal Sethia',
-                image: 'no need'
+                spouse: 'Shantilal Sethia'
               }, {
                 name: 'Banshilal Banthia',
-                spouse: 'Lalita Banthia',
-                image: 'no need'
+                spouse: 'Lalita Banthia'
               }, {
                 name: 'Sushila Sethia*',
-                spouse: 'Mahendra Sethia',
-                image: 'no need'
+                spouse: 'Mahendra Sethia'
               }]
             },
             {
@@ -337,32 +328,46 @@ const bakshiParivar: any = {
               image: 'assets/images/gulabbaisa1.jpg',
               children: [{
                 name: 'Bhanwari Devi*',
-                spouse: 'Late Askaran Bafna',
-                image: 'no need'
+                spouse: 'Late Askaran Bafna'
               }, {
                 name: 'Kailash Chand Pugalia',
-                spouse: 'Aruna Pugalia',
-                image: 'no need'
+                spouse: 'Aruna Pugalia'
               }, {
                 name: 'Late Nirmala Devi*',
-                spouse: 'Late Keval Chand Parakh',
-                image: 'no need'
+                spouse: 'Late Keval Chand Parakh'
               }, {
                 name: 'Late Prakash Chand Pugalia',
                 spouse: 'Late Anju Devi Pugalia',
-                image: 'no need'
+                image: '',
+                children: [
+                  {
+                    name: 'Varsha <surname>*',
+                    spouse: '<spouse_name>',
+                    spouseParents: { mom: '<spouse_mother_name>', dad: '<spouse_father_name>' },
+                    image: '',
+                    children: [
+                      { name: '<kid 1>', image: '' },
+                      { name: '<kid 2>', image: '' }
+                    ]
+                  }, {
+                    name: 'Priyanka Bafna*',
+                    spouse: '<spouse_name>',
+                    spouseParents: { mom: '<spouse_mother_name>', dad: '<spouse_father_name>' },
+                    image: '',
+                    children: [
+                      { name: '<kid 1>', image: '' }
+                    ]
+                  }
+                ]
               }, {
                 name: 'Navratan Pugalia',
-                spouse: 'Devika Pugalia',
-                image: 'no need'
+                spouse: 'Devika Pugalia'
               }, {
                 name: 'Rajender Pugalia',
-                spouse: 'Saroj Pugalia',
-                image: 'no need'
+                spouse: 'Saroj Pugalia'
               }, {
                 name: 'Santosh Bhansali*',
-                spouse: 'Suresh Bhansali',
-                image: 'no need'
+                spouse: 'Suresh Bhansali'
               }]
             }
           ]
