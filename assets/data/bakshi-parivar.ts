@@ -15,6 +15,7 @@ const bakshiParivar: any = {
             {
               name: 'Late Manak Chand Ji Bakshi*',
               spouse: 'Late Kamla Devi',
+              kidDescription: '★★ Late Manak Chand Ji Bakshi — (परंपरा,प्रतिष्ठा और अनुशासन)',
               spouseDescription: '★★ Late Kamla Devi —  (सूत्रधार - An Amazing Lady who held the family together through thick and thin)',
               spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
               image: 'assets/images/maa-1.webp',
@@ -168,7 +169,7 @@ const bakshiParivar: any = {
                 },
                 {
                   name: 'Vijay Kumar Bakshi (Munna)*',
-                  kidDescription: '★★★ Vijay Kumar Bakshi (Munna) — (मस्तमौला - The super cool Mama and the symbol of strength, selfless dedication & sacrifice.)',
+                  kidDescription: '★★★ Vijay Kumar Bakshi (Munna) — (मस्तमौला - The super cool Mama and the symbol of strength, selfless, dedication & sacrifice.)',
                   spouse: 'Nidhi Jain',
                   spouseParents: { mom: 'Late Kiran Chordia', dad: 'Late Maktur Mal Sa Chordia' },
                   image: 'assets/images/vijay.webp',
