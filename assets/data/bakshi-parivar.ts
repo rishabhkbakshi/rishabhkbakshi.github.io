@@ -158,7 +158,7 @@ const bakshiParivar: any = {
                 {
                   name: 'Vandana Jain (Gattu)*',
                   spouse: 'Sachindra Singhvi',
-                  kidDescription: '★★★ Vandana Jain (Gattu) — (स्वनिर्मित - The One who created his own future through determination.)',
+                  kidDescription: '★★★ Vandana Jain (Gattu) — (स्वनिर्मित - The One who created her own future through determination.)',
                   spouseParents: { mom: 'Late Shanti Singhvi', dad: 'Late Bheruchand Sa Singhvi' },
                   image: 'assets/images/vandana.webp',
                   children: [
@@ -364,7 +364,7 @@ const bakshiParivar: any = {
                   }, {
                     name: 'Priyanka Bafna (Pinku)*',
                     spouse: 'Hemant Bafna',
-                    spouseParents: { mom: 'Manju Devi Bafna', dad: '<Pukhraj Bafna>' },
+                    spouseParents: { mom: 'Manju Devi Bafna', dad: 'Pukhraj Bafna' },
                     children: [
                       { name: 'Sarthak Bafna', image: 'no need' }
                     ]
