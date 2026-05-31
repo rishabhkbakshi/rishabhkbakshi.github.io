@@ -18,14 +18,14 @@ const bakshiParivar: any = {
               kidDescription: '★★ Late Manak Chand Ji Bakshi — (परंपरा,प्रतिष्ठा और अनुशासन)',
               spouseDescription: '★★ Late Kamla Devi —  (सूत्रधार - An Amazing Lady who held the family together through thick and thin)',
               spouseParents: { mom: 'Late Indra Devi', dad: 'Late Tulsi Ram Ji Surana' },
-              image: 'assets/images/maa-1.webp',
+              image: 'assets/images/kamladevi.webp',
               children: [
                 {
                   name: 'Chandrakanta Sethia (मोलू)*',
                   kidDescription: '★★★ Chandrakanta Sethia (मोलू) — (विशालहृदयी - The ocean hearted person.)',
                   spouse: 'Late Swami Anand Prem',
                   spouseParents: { mom: 'Late Gulab devi', dad: 'Late Jewant Mal Sa Sethia' },
-                  image: 'assets/images/bhuaasa.webp',
+                  image: 'assets/images/chandrakanta.webp',
                   children: [
                     {
                       name: 'Ashok Prem*',
@@ -34,14 +34,14 @@ const bakshiParivar: any = {
                       image: 'assets/images/ashok.webp',
                       children: [
                         { name: 'Juhi Jain', image: 'assets/images/juhi.webp' },
-                        { name: 'Pulkit Jain', image: 'assets/images/tinku.webp' }
+                        { name: 'Pulkit Jain', image: 'assets/images/pulkit.webp' }
                       ]
                     },
                     {
                       name: 'Arvind Prem (Bablu)*',
                       spouse: 'Trishla Sethia',
                       spouseParents: { mom: 'Sushila Lalwani', dad: 'Ashkaran Lalwani' },
-                      image: 'assets/images/babloo.webp',
+                      image: 'assets/images/arvind.webp',
                       children: [
                         { name: 'Aayush Sethia', image: 'assets/images/aayush.webp' },
                         { name: 'Lakshay Sethia', image: 'assets/images/lakshay.webp' }
@@ -79,27 +79,27 @@ const bakshiParivar: any = {
                   name: 'Sarla Chordia (Manju)*',
                   spouse: 'Sunil Chordia',
                   kidDescription: '★★★ Sarla Chordia (Manju) — (दयालु - The most kind person of the family.)',
-                  image: 'assets/images/manju.webp',
+                  image: 'assets/images/sarla.webp',
                   spouseParents: { mom: 'Late Upyog kanwar', dad: 'Late Parsan Mal Sa Chordia' },
                   children: [
                     {
                       name: 'Priyanka Surana (Tina)*',
                       spouse: 'Nishant Surana',
                       spouseParents: { mom: 'Lalita surana', dad: 'Narendra Mal Sa Surana' },
-                      image: 'assets/images/tina.webp',
+                      image: 'assets/images/priyanka.webp',
                       children: [
-                        { name: 'Vihan Surana', image: 'assets/images/tina-2.webp', },
-                        { name: 'Anay Surana', image: 'assets/images/tina-1.webp', }
+                        { name: 'Vihan Surana', image: 'assets/images/vihan.webp', },
+                        { name: 'Anay Surana', image: 'assets/images/anay.webp', }
                       ]
                     },
                     {
                       name: 'Prateek Chordia (Rinku)*',
                       spouse: 'Nikita Chordia',
                       spouseParents: { mom: 'Babita Baid', dad: 'Suresh Kumar Baid' },
-                      image: 'assets/images/rinku2.webp',
+                      image: 'assets/images/prateek.webp',
                       children: [
-                        { name: 'Yaashi Chordia', image: 'assets/images/rinku-2.webp', },
-                        { name: 'Dishi Chordia', image: 'assets/images/rinku-1.webp', }
+                        { name: 'Yaashi Chordia', image: 'assets/images/yaashi.webp', },
+                        { name: 'Dishi Chordia', image: 'assets/images/dishi.webp', }
                       ]
                     }
                   ]
@@ -115,7 +115,7 @@ const bakshiParivar: any = {
                       name: 'Pratibha Khabiya (Dimple/Guddu)*',
                       spouse: 'Ajit Khabiya',
                       spouseParents: { mom: 'Late Nirmala Khabiya', dad: 'Rajendra Khabiya' },
-                      image: 'assets/images/dimple.webp',
+                      image: 'assets/images/pratibha.webp',
                       children: [
                         { name: 'Ayaansh Khabiya', image: 'assets/images/ayaansh.webp' }
                       ]
@@ -126,7 +126,7 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Late Sushila Devi Bhadani', dad: 'Late Kiran Chand Bhadani' },
                       image: 'assets/images/nidhi.webp',
                       children: [
-                        { name: 'Lehak Jain', image: 'assets/images/nidhi-1.webp' }
+                        { name: 'Lehak Jain', image: 'assets/images/lehak.webp' }
                       ]
                     },
                     { name: 'Shreya Jain', image: 'assets/images/shreya.webp' },
@@ -144,14 +144,14 @@ const bakshiParivar: any = {
                       name: 'Virendra Kankariya (Viru)*',
                       spouse: 'Preksha Kankariya',
                       spouseParents: { mom: 'Madhu Jamad', dad: 'Late Sunil Kumar Sa Jamad' },
-                      image: 'assets/images/viru.webp',
+                      image: 'assets/images/virendra.webp',
                       children: []
                     },
                     {
                       name: 'Pawan Kankariya (Charlie)*',
                       spouse: 'Rishika Kankariya',
                       spouseParents: { mom: 'Sangeeta Singhvi', dad: 'Praveen Sa Singhvi' },
-                      image: 'assets/images/charlie.webp',
+                      image: 'assets/images/pawan.webp',
                       children: []
                     }
                   ]
@@ -183,10 +183,10 @@ const bakshiParivar: any = {
                   spouse: 'Sudhir Kumbhat',
                   kidDescription: '★★★ Jaishri Jain (Gudiya) — (ज़िंदादिल - Sab se dur, sab ke pass, baki sab first class! Just a fearless lady living life her own way.)',
                   spouseParents: { mom: 'Manju Kumbhat', dad: 'Gyan Chand Kumbhat' },
-                  image: 'assets/images/gudiya.webp',
+                  image: 'assets/images/jaishri.webp',
                   children: [
                     { name: 'Nishchal Kumbhat Jain (Golu)', image: 'assets/images/nishchal.webp' },
-                    { name: 'Chaitanya Kumbhat Jain (Gungun)', image: 'assets/images/gungun.webp' }
+                    { name: 'Chaitanya Kumbhat Jain (Gungun)', image: 'assets/images/chaitanya.webp' }
                   ]
                 }
               ]
@@ -202,7 +202,7 @@ const bakshiParivar: any = {
                   spouse: 'Hansa Bakshi',
                   kidDescription: '★★★ Buddhi Prakash Bakshi (Mannu) — (Guardian - The caring protector of the family.)',
                   spouseParents: { mom: 'Shanti Devi', dad: 'Late Laxmi Chand Mehta' },
-                  image: 'assets/images/manu.webp',
+                  image: 'assets/images/buddhiprakash.webp',
                   children: [
                     {
                       name: 'Chandani Babel*',
@@ -210,8 +210,8 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Usha Babel', dad: 'Inderchand Babel' },
                       image: 'assets/images/chandani.webp',
                       children: [
-                        { name: 'Divit Babel', image: 'assets/images/chandani-1.webp' },
-                        { name: 'Kalp Babel', image: 'assets/images/chandani-2.webp' }
+                        { name: 'Divit Babel', image: 'assets/images/divit.webp' },
+                        { name: 'Kalp Babel', image: 'assets/images/kalp.webp' }
                       ]
                     },
                     { name: 'Pratik Bakshi (Vivek)', image: 'assets/images/vivek.webp' },
@@ -223,25 +223,25 @@ const bakshiParivar: any = {
                   spouse: 'Ashok Doshi',
                   kidDescription: '★★★ Saroj Doshi (Bai) — (Nurturing - A woman full of love, who sacrifices her time for her family and children.)',
                   spouseParents: { mom: 'Late Ugam Kanwar Doshi', dad: 'Late Sampat Raj Doshi' },
-                  image: 'assets/images/Ashokji.webp',
+                  image: 'assets/images/ashokdoshi.webp',
                   children: [
                     {
                       name: 'Khushbu Burad*',
                       spouse: 'Punit Burad',
                       spouseParents: { mom: 'Sumitra Devi', dad: 'Jambu Sa Burad' },
-                      image: 'assets/images/khushbu-borunda.webp',
+                      image: 'assets/images/khushbuburad.webp',
                       children: [
-                        { name: 'Prisha Burad', image: 'assets/images/khushbu-borunda2.webp' }
+                        { name: 'Prisha Burad', image: 'assets/images/prisha.webp' }
                       ]
                     },
                     {
                       name: 'Sarika Karnawat (Ghotu)*',
                       spouse: 'Raunak Karnawat',
                       spouseParents: { mom: 'Urmila Karnawat', dad: 'Late Pardeep Karnawat' },
-                      image: 'assets/images/Ghotu.webp',
+                      image: 'assets/images/sarika.webp',
                       children: []
                     },
-                    { name: 'Arihant Doshi', image: 'assets/images/Arihant.webp' },
+                    { name: 'Arihant Doshi', image: 'assets/images/arihant.webp' },
                   ]
                 },
                 {
@@ -249,16 +249,16 @@ const bakshiParivar: any = {
                   spouse: 'Kamal Lalwani',
                   kidDescription: '★★★ Sunita Lalwani (Baby) — (Selfless - A kind hearted lady who loves family gatherings, cares for relatives, and always puts her family’s happiness before her own.)',
                   spouseParents: { mom: 'Late Ghisi Devi Lalwani', dad: 'Late Tejkaran Lalwani ' },
-                  image: 'assets/images/babybhuaa.webp',
+                  image: 'assets/images/sunita.webp',
                   children: [
                     {
                       name: 'Khushbu Kothari*',
                       spouse: 'Rishabh Kothari',
                       spouseParents: { mom: 'Saroj Kothari', dad: 'Vimal Kothari' },
-                      image: 'assets/images/khushbu-nagaur.webp',
+                      image: 'assets/images/khushbukothari.webp',
                       children: [
-                        { name: 'Ritvi Kothari', image: 'assets/images/khushbu-nagaur-1.webp' },
-                        { name: 'Prishu Kothari', image: 'assets/images/khushbu-nagaur-2.webp' }
+                        { name: 'Ritvi Kothari', image: 'assets/images/ritvi.webp' },
+                        { name: 'Prishu Kothari', image: 'assets/images/prishu.webp' }
                       ]
                     },
                     {
@@ -267,17 +267,17 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Sheela Devi', dad: 'Subhash Chand Choudhary' },
                       image: 'assets/images/kavita.webp',
                       children: [
-                        { name: 'Khushan Choudhary', image: 'assets/images/kavita-1.webp' },
-                        { name: 'Soham Choudhary', image: 'assets/images/kavita-2.webp' }
+                        { name: 'Khushan Choudhary', image: 'assets/images/khushan.webp' },
+                        { name: 'Soham Choudhary', image: 'assets/images/soham.webp' }
                       ]
                     },
                     {
                       name: 'Kalpana Bafna (Kalpu)*',
                       spouse: 'Vaibhav Bafna',
                       spouseParents: { mom: 'Shobha Bafna', dad: 'Chhagan Sa Bafna' },
-                      image: 'assets/images/vaibhav.webp',
+                      image: 'assets/images/kalpana.webp',
                       children: [
-                        { name: 'Bhavika Bafna', image: 'assets/images/vaibhav-1.webp' }
+                        { name: 'Bhavika Bafna', image: 'assets/images/bhavika.webp' }
                       ]
                     },
                     { name: 'Harshit Lalwani', image: 'assets/images/harshit.webp' }
@@ -288,7 +288,7 @@ const bakshiParivar: any = {
                   spouse: 'Kishor Nahar',
                   kidDescription: '★★★ Sangeeta Nahar (Pappu) — Anchor — Keeps the family grounded',
                   spouseParents: { mom: 'Maina Devi Nahar', dad: 'Late Navratan Mal Sa Nahar' },
-                  image: 'assets/images/kishor.webp',
+                  image: 'assets/images/sangeeta.webp',
                   children: [
                     {
                       name: 'Nikita Bhansali*',
@@ -296,7 +296,7 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Prabha Bhansali', dad: 'Sushil Bhansali' },
                       image: 'assets/images/nikita.webp',
                       children: [
-                        { name: 'Garvisha Bhansali', image: 'assets/images/nikita-1.webp' }
+                        { name: 'Garvisha Bhansali', image: 'assets/images/garvisha.webp' }
                       ]
                     },
                     { name: 'Ankita Nahar (Gudiya)', image: 'assets/images/ankita.webp' }
@@ -339,7 +339,7 @@ const bakshiParivar: any = {
               name: 'Late Gulab Devi Sa*',
               spouse: 'Late Pratap Chand Ji Pugalia',
               spouseParents: { mom: '<Data not available>', dad: '<Data not available>' },
-              image: 'assets/images/gulabbaisa1.webp',
+              image: 'assets/images/gulabdevi.webp',
               children: [{
                 name: 'Bhawari Devi*',
                 spouse: 'Late Askaran Bafna'
