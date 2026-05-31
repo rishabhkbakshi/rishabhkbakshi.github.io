@@ -241,7 +241,7 @@ const bakshiParivar: any = {
                       image: 'assets/images/sarika.webp',
                       children: []
                     },
-                    { name: 'Arihant Doshi', image: 'assets/images/arihant.webp' },
+                    { name: 'Arihant Doshi', image: 'assets/images/arihant_.webp' },
                   ]
                 },
                 {
