@@ -268,7 +268,7 @@ const bakshiParivar: any = {
                       ]
                     },
                     { name: 'Pratik Bakshi (Vivek)', image: 'assets/images/vivek.webp', dateOfBirth: '30 November' },
-                    { name: 'Himani Bakshi', image: 'assets/images/himani.webp', dateOfBirth: '02 August' }
+                    { name: 'Himani Bakshi', image: 'assets/images/himani.webp', dateOfBirth: '03 August' }
                   ]
                 },
                 {
