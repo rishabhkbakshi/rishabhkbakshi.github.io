@@ -43,8 +43,8 @@ const bakshiParivar: any = {
                       spouseParents: { mom: 'Pushpa Devi', dad: 'Late Shantilal Gang' },
                       image: 'assets/images/ashok.webp',
                       children: [
-                        { name: 'Juhi Jain', image: 'assets/images/juhi.webp', dateOfBirth: '02 December' },
-                        { name: 'Pulkit Jain', image: 'assets/images/pulkit.webp', dateOfBirth: '10 May' }
+                        { name: 'Juhi Jain', image: 'assets/images/juhi.webp', dateOfBirth: '10 May' },
+                        { name: 'Pulkit Jain', image: 'assets/images/pulkit.webp', dateOfBirth: '02 December' }
                       ]
                     },
                     {
@@ -96,7 +96,7 @@ const bakshiParivar: any = {
                 },
                 {
                   name: 'Sarla Chordia (Manju)*',
-                  dateOfBirth: '30 September',
+                  dateOfBirth: '24 September',
                   kidDescription: '★★★ दयालु — The most kind person of the family',
                   spouse: 'Sunil Chordia',
                   spouseDateOfBirth: '20 April',
