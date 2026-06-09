@@ -63,7 +63,7 @@ const bakshiParivar: any = {
                 },
                 {
                   name: 'Late Lalit Kumar Bakshi (Lalji)*',
-                  dateOfBirth: 'मिगसर शुक्ल(सुदी) एकादशी',
+                  dateOfBirth: 'मिगसर शुक्ल (सुदी) एकादशी',
                   dateOfDeath: '08 February',
                   kidDescription: '★★★ उदारहृदय — The richest hearted person of this planet',
                   spouse: 'Suman Jain (Nirmala)',
