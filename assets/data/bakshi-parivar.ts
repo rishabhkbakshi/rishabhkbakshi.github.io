@@ -175,7 +175,7 @@ const bakshiParivar: any = {
                   children: [
                     {
                       name: 'Virendra Kankariya (Viru)*',
-                      dateOfBirth: '23 May',
+                      dateOfBirth: '09 June',
                       spouse: 'Preksha Kankariya',
                       spouseDateOfBirth: '13 January',
                       spouseParents: { mom: 'Madhu Jamad', dad: 'Late Sunil Kumar Jamad' },
@@ -184,7 +184,7 @@ const bakshiParivar: any = {
                     },
                     {
                       name: 'Pawan Kankariya (Charlie)*',
-                      dateOfBirth: '09 June',
+                      dateOfBirth: '23 May',
                       spouse: 'Rishika Kankariya',
                       spouseDateOfBirth: '02 January',
                       spouseParents: { mom: 'Sangeeta Singhvi', dad: 'Praveen Singhvi' },
