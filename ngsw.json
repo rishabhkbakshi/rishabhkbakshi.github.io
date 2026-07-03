@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1782813768580,
+  "timestamp": 1783059536861,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d218e93f67d794b6.js",
+        "/main.fb7c0437512870c9.js",
         "/manifest.webmanifest",
         "/polyfills.830e860ec478c3ed.js",
         "/runtime.0bc67e3d30bd95b0.js",
-        "/styles.50fc09944efe4f5c.css"
+        "/styles.0c5ef4c2e28e65d8.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/icons/WhatsApp.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -129,6 +130,7 @@
     }
   ],
   "hashTable": {
+    "/assets/icons/WhatsApp.svg": "843d6546311f1cffabbcdb12af6c5e677c4477fe",
     "/assets/icons/icon-128x128.png": "8ff3a62be50f5f991e391c54b36d97bd1f5df1cf",
     "/assets/icons/icon-144x144.png": "9f0543ccb6b8c4910d4ea2dbea791e556066ee2c",
     "/assets/icons/icon-152x152.png": "14a603c33b9481a4e01084258460c09f2ea84f7c",
@@ -209,12 +211,12 @@
     "/assets/images/yaashi.webp": "8119179dccf7e06f947f9889b3f68f140d71d521",
     "/assets/videos/maa-message.mp4": "66e6002e9941de3e018a92428b98844db73d3a05",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "3356f631e073f09040e6746575e19f73082bd6fc",
-    "/main.d218e93f67d794b6.js": "cd56e74a6017df36592dde3851c347d03d02677b",
+    "/index.html": "23d8dc247ba40d8cf33b27d66da71ddbaec5b1ba",
+    "/main.fb7c0437512870c9.js": "03873d5eeeba3b92a9a972c46663651a4b637c66",
     "/manifest.webmanifest": "3b8bb1bd518fda50cbe606e3e9c856b75e0ea56d",
     "/polyfills.830e860ec478c3ed.js": "d1574acd0c264c8a4a471a29af45ad3702dc80d3",
     "/runtime.0bc67e3d30bd95b0.js": "460fc019c4c30cbfac8de250ac6a7d8032bc4aaa",
-    "/styles.50fc09944efe4f5c.css": "807263a253b7c99f03d71e60283217185d432938"
+    "/styles.0c5ef4c2e28e65d8.css": "4e16fd456a28c64f1e372194961240f522c6d7c2"
   },
   "navigationUrls": [
     {
