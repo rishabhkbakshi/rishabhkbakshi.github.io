@@ -63,11 +63,15 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-V36C9S3K6Q"></script>
   <script>
     (function () {
-      const path = new URLSearchParams(window.location.search);
-      const redirect = path.get('redirect');
+      const params = new URLSearchParams(window.location.search);
+      const redirect = params.get('redirect');
 
       if (redirect) {
-        window.history.replaceState(null, null, redirect);
+        window.history.replaceState(
+          null,
+          '',
+          decodeURIComponent(redirect)
+        );
       }
     })();
     window.dataLayer = window.dataLayer || [];
