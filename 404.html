@@ -69,11 +69,12 @@
   <script>
     (function () {
       const path = new URLSearchParams(window.location.search);
-      const redirect = params.get('redirect');
+      const redirect = path.get('redirect');
 
       if (redirect) {
         window.history.replaceState(null, null, redirect);
       }
+      window.location.replace('/');
     })();
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
