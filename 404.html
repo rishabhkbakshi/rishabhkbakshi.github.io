@@ -68,13 +68,12 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-V36C9S3K6Q"></script>
   <script>
     (function () {
-      const path = new URLSearchParams(window.location.search);
-      const redirect = path.get('redirect');
-
-      if (redirect) {
-        window.history.replaceState(null, null, redirect);
+      const path = window.location.pathname;
+      if (path && path !== '/') {
+        window.location.replace('/?redirect=' + encodeURIComponent(path));
+      } else {
+        window.location.replace('/');
       }
-      window.location.replace('/');
     })();
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
