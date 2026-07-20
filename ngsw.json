@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1784540411234,
+  "timestamp": 1784540737730,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.js",
+        "/main.c234db8e1b251818.js",
         "/manifest.webmanifest",
-        "/polyfills.js",
-        "/runtime.js",
-        "/styles.css",
-        "/vendor.js"
+        "/polyfills.830e860ec478c3ed.js",
+        "/runtime.0bc67e3d30bd95b0.js",
+        "/styles.0c5ef4c2e28e65d8.css"
       ],
       "patterns": []
     },
@@ -212,13 +211,12 @@
     "/assets/images/yaashi.webp": "8119179dccf7e06f947f9889b3f68f140d71d521",
     "/assets/videos/maa-message.mp4": "66e6002e9941de3e018a92428b98844db73d3a05",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8495872732c52c4194bc0ea45ea3af5e92f346bd",
-    "/main.js": "dbe8611a65b803db503787931f429f86b68d3ffc",
+    "/index.html": "67f213deb4d2b9adfc85ac33fc688194b4a05911",
+    "/main.c234db8e1b251818.js": "2fdbef8eb21b1bb9242a348c41b18f822532b57d",
     "/manifest.webmanifest": "3b8bb1bd518fda50cbe606e3e9c856b75e0ea56d",
-    "/polyfills.js": "ec98020694ef49b7368f4720088287dee677e333",
-    "/runtime.js": "626f649330a8108fd21495ead93cc556264bd562",
-    "/styles.css": "9cc1ed24177247189f3e334236f44bbbfeecaddf",
-    "/vendor.js": "e324c1b79a0904219f5368f7e70476487b13b554"
+    "/polyfills.830e860ec478c3ed.js": "d1574acd0c264c8a4a471a29af45ad3702dc80d3",
+    "/runtime.0bc67e3d30bd95b0.js": "460fc019c4c30cbfac8de250ac6a7d8032bc4aaa",
+    "/styles.0c5ef4c2e28e65d8.css": "4e16fd456a28c64f1e372194961240f522c6d7c2"
   },
   "navigationUrls": [
     {
