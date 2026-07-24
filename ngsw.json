@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1784856345007,
+  "timestamp": 1784870151257,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e9263af761012a4e.js",
+        "/main.5b96d1e6515ab8c9.js",
         "/manifest.webmanifest",
         "/polyfills.830e860ec478c3ed.js",
         "/runtime.0bc67e3d30bd95b0.js",
@@ -130,7 +130,7 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/WhatsApp.svg": "843d6546311f1cffabbcdb12af6c5e677c4477fe",
+    "/assets/icons/WhatsApp.svg": "aae6c38b1a7eb86a022c446ebbc9b30c32d4ae0d",
     "/assets/icons/icon-128x128.png": "8ff3a62be50f5f991e391c54b36d97bd1f5df1cf",
     "/assets/icons/icon-144x144.png": "9f0543ccb6b8c4910d4ea2dbea791e556066ee2c",
     "/assets/icons/icon-152x152.png": "14a603c33b9481a4e01084258460c09f2ea84f7c",
@@ -211,9 +211,9 @@
     "/assets/images/yaashi.webp": "8119179dccf7e06f947f9889b3f68f140d71d521",
     "/assets/videos/maa-message.mp4": "66e6002e9941de3e018a92428b98844db73d3a05",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1507989be61a9144c6f778bd5ab46cd7238d1694",
-    "/main.e9263af761012a4e.js": "8e6e78b978e0af3d85a01e8d9783d98ed23d9980",
-    "/manifest.webmanifest": "3b8bb1bd518fda50cbe606e3e9c856b75e0ea56d",
+    "/index.html": "ec4c69ecfec3f231335a3726947a4ac7d23b28e3",
+    "/main.5b96d1e6515ab8c9.js": "18481d1d7e3589cacb402fd34ebc2d2801e9bee3",
+    "/manifest.webmanifest": "662773f5cae1c5ae0b395bd5b7dcc6359abe5bf9",
     "/polyfills.830e860ec478c3ed.js": "d1574acd0c264c8a4a471a29af45ad3702dc80d3",
     "/runtime.0bc67e3d30bd95b0.js": "460fc019c4c30cbfac8de250ac6a7d8032bc4aaa",
     "/styles.fe710982221349e6.css": "981cca559381e13bb6ede2d15bf87d26b66ad62a"
