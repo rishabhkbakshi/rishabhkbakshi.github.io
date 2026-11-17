@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794933897506,
+  "timestamp": 1794934516171,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -213,7 +213,7 @@
     "/assets/images/yaashi.webp": "8119179dccf7e06f947f9889b3f68f140d71d521",
     "/assets/videos/maa-message.mp4": "66e6002e9941de3e018a92428b98844db73d3a05",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "6fd0a9759db26463544b1ce964522022b2495a78",
+    "/index.html": "49138f4962c3041cd0d35f3c52460917341e413b",
     "/main.84ac694232e7dab0.js": "e0d0c5edd76c0886fc0267b5d02b1c3c29d73c63",
     "/manifest.webmanifest": "662773f5cae1c5ae0b395bd5b7dcc6359abe5bf9",
     "/polyfills.830e860ec478c3ed.js": "d1574acd0c264c8a4a471a29af45ad3702dc80d3",
