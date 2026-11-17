@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794384783998,
+  "timestamp": 1794918799587,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8ea31ceee2e423de.js",
+        "/main.30566eef81fcf709.js",
         "/manifest.webmanifest",
         "/polyfills.830e860ec478c3ed.js",
         "/runtime.0bc67e3d30bd95b0.js",
@@ -92,6 +92,7 @@
         "/assets/images/pulkit.webp",
         "/assets/images/rishabh.webp",
         "/assets/images/ritvi.webp",
+        "/assets/images/ritvi_shilpi.webp",
         "/assets/images/sangeeta.webp",
         "/assets/images/sarika.webp",
         "/assets/images/sarla.webp",
@@ -193,6 +194,7 @@
     "/assets/images/pulkit.webp": "f9a032f701151b6607d576480fd7b12c80a99da3",
     "/assets/images/rishabh.webp": "29fc3237d41678b126dfa2e1e40ed189cc1e69dc",
     "/assets/images/ritvi.webp": "5a3b9a56e04522084e5b54876c9811a7c536370d",
+    "/assets/images/ritvi_shilpi.webp": "7c389948334f78259d7bf6a4ab9b972f002033b1",
     "/assets/images/sangeeta.webp": "37f70966b5d5187a7810ca1c02cf6011563c89f4",
     "/assets/images/sarika.webp": "e3a9471fcd4796cc730af2e04fe485c8e55c82a9",
     "/assets/images/sarla.webp": "517851ea88e3ab7554211ebca36b8f0af801b408",
@@ -211,8 +213,8 @@
     "/assets/images/yaashi.webp": "8119179dccf7e06f947f9889b3f68f140d71d521",
     "/assets/videos/maa-message.mp4": "66e6002e9941de3e018a92428b98844db73d3a05",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "f0d041e460d76f1671eed8d9ab8470f7de2cdc8e",
-    "/main.8ea31ceee2e423de.js": "ce6865d381c0fe863adf67e5c27f3afc72abbf71",
+    "/index.html": "b88bb7be7c658f0317424ee8ad2bdb3ccc9f7f85",
+    "/main.30566eef81fcf709.js": "296abd926bbd852e57a6edc548260977c43e3f65",
     "/manifest.webmanifest": "662773f5cae1c5ae0b395bd5b7dcc6359abe5bf9",
     "/polyfills.830e860ec478c3ed.js": "d1574acd0c264c8a4a471a29af45ad3702dc80d3",
     "/runtime.0bc67e3d30bd95b0.js": "460fc019c4c30cbfac8de250ac6a7d8032bc4aaa",
